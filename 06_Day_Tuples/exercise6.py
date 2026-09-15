@@ -62,3 +62,5 @@ isEstoniaNordic = 'Estonia' in nordic_countries
 print(isEstoniaNordic)
 isIceLandNordic = 'Iceland' in nordic_countries
 print(isIceLandNordic)
+
+#ex2.8
