@@ -1,4 +1,4 @@
-[
+COUNTRY_DATA = [
     {
         "name": "Afghanistan",
         "capital": "Kabul",
