@@ -1,16 +1,16 @@
+# mymodule.py file
 def generate_full_name(firstname, lastname):
-      space = ' '
-      fullname = firstname + space + lastname
-      return fullname
+    return firstname + ' ' + lastname
 
-def sum_two_nums (num1, num2):
-    return num1 + num2
+def sum_two_nums(a,b):
+    return a + b
+
+#you can import variables too
 gravity = 9.81
+
 person = {
-    "firstname": "Asabeneh",
-    "age": 250,
-    "country": "Finland",
+    "firstname":"Asabeneh",
+    "age":250,
+    "country":"Finland",
     "city":'Helsinki'
 }
-
-
