@@ -3,3 +3,4 @@ cpy3.14-learning
 .env
 *.env
 __pycache__
+*.log
