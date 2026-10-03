@@ -1,6 +1,7 @@
 #datetime information
 from datetime import datetime
 print(dir(datetime))
+
 now = datetime.now()
 print(now)
 

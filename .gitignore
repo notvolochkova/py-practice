@@ -4,3 +4,7 @@ cpy3.14-learning
 *.env
 __pycache__
 *.log
+.claude/
+*_reviewed.py
+*CLAUDE.md
+review_*.md
